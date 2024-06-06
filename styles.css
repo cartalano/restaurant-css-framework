@@ -1,3 +1,7 @@
 .jumbotron {
     background-color: rgba(240, 189, 71, 0.831);
 }
+
+body {
+    background-color: gray;
+}
