@@ -2,6 +2,10 @@
     background-color: rgba(240, 189, 71, 0.831);
 }
 
+.content {
+    padding-top: 60px;
+}
+
 body {
     background-color: rgba(240, 189, 71, 0.831);
 }
