@@ -2,10 +2,14 @@
     background-color: rgba(240, 189, 71, 0.831);
 }
 
-.content {
-    padding-top: 60px;
+.contenttop {
+    padding-top: 90px;
 }
 
 body {
     background-color: rgba(240, 189, 71, 0.831);
+}
+
+.mb-3 {
+    padding-left: 13px;
 }
