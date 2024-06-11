@@ -24,6 +24,10 @@
     font-family: 'pasta';
 }
 
+.bas {
+    background-color: rgba(255, 0, 0, 0.356);
+}
+
 .contenttop {
     padding-top: 90px;
 }
