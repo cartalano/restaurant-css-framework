@@ -1,5 +1,27 @@
-.jumbotron {
+@font-face {
+    font-family: 'picNic-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('picNic-Regular'), url('fonts/PicNic-main/fonts/webfonts/PicNic-Regular.woff') format('woff');
+    }
+
+@font-face {
+    font-family: 'pasta';
+    font-style: normal;
+    font-weight: normal;
+    src: local('pasta'), url('fonts/Pasta-Bold.woff') format('woff');
+    }    
+
+.jumbotron{
     background-color: rgba(240, 189, 71, 0.831);
+}
+
+.jumbotron h1 {
+    font-family: 'picNic-Regular', sans-serif;
+}
+
+.jumbotron h2 {
+    font-family: 'pasta';
 }
 
 .contenttop {
@@ -16,4 +38,7 @@ body {
 
 .btn {
     background-color: black;
+}
+.navbar-brand {
+    font-family: 'picNic-Regular', sans-serif;
 }
